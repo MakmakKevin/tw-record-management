@@ -1,0 +1,9 @@
+.navbar {
+    /* background: #212125 !important; */
+    padding: 30px 0px;
+    transition: 0.4s;
+}
+
+.scroll_nav {
+    padding: 10px 0px;
+}

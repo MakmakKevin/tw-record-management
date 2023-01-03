@@ -5,7 +5,7 @@
           <div class="card">
             <div class="card-header">Home</div>
   
-            <div class="card-body">Home Page</div>
+            <div class="card-body" style='height: 1000px;'>Home Page</div>
           </div>
         </div>
         <example-component></example-component>
